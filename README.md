@@ -20,7 +20,6 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 
 <img width="1891" height="788" alt="image" src="https://github.com/user-attachments/assets/f4b11c04-fe6d-42a7-bf24-f7d70589f59e" />
 
-
 ---
 
 ### 🎥 Movie Details & Insights
