@@ -57,7 +57,6 @@ movie-recommendation-system/
 
 ## ⚙️ How It Works
 
-
 1. Movie data is collected and preprocessed.
 2. Important features such as genres, cast, crew, keywords, and overview are combined.
 3. Text data is vectorized using CountVectorizer.
