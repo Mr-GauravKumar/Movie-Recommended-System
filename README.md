@@ -123,6 +123,7 @@ The application will open in your browser automatically.
 
 ## 🎯 Future Improvements
 
+
 * Hybrid Recommendation System
 * User Authentication
 * Personalized Recommendations
