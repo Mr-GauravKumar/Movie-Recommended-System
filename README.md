@@ -47,6 +47,7 @@ For every recommended movie, users can explore detailed information including th
 
 ## 📂 Project Structure
 
+
 ```text
 movie-recommendation-system/
 │
