@@ -86,6 +86,7 @@ cd movie-recommendation-system
 python -m venv venv
 ```
 
+
 ### Activate Environment
 
 **Windows**
