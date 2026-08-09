@@ -13,7 +13,7 @@ A content-based Movie Recommendation System that suggests movies similar to the 
 
 ## 🚀 Features 
     
- 
+
 * Recommend movies similar to a selected movie
 * Content-based filtering approach
 * Interactive Streamlit web application
